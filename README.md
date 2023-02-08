@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Front End Web App (React, HTML, CSS)</b>
-  - [Enlightened Picks](https://github.com/jox51/enlightened-picks)
+  - [Enlightened Picks](https://github.com/jox51/enlightened_picks)
 
  
 <h2>Prior Emplpoyment</h2>

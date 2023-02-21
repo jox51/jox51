@@ -8,7 +8,7 @@
  
 <h2>Prior Employment</h2>
 
-- [Universal Group](July-2022-Current)
+- [Universal Group] (July-2022-Current)
 - [U.S. Navy - Healthcare Manager](Jun-2000 - June-2022)
  
 

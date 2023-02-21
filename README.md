@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Frontend Developer (React, HTML, CSS)</b>
+- <b>Frontend Developer (HTML, CSS, JS, React)</b>
   - [Enlightened Picks](https://enlightenedpicks.netlify.app/)
 
  

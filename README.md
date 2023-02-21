@@ -1,4 +1,4 @@
-<h1>Hi, I'm Orlando! <br/><a href="https://github.com/jox51">Programmer</a>, <a href="https://www.linkedin.com/in/orlando-dominici-83078082/">Front End Web Dev</a>
+<h1>Hi, I'm Orlando! <br/><a href="https://github.com/jox51">Programmer</a>, <a href="https://www.linkedin.com/in/orlando-dominici-83078082/">Frontend Web Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

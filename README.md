@@ -2,11 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Front End Web App (React, HTML, CSS)</b>
+- <b>Frontend Developer (React, HTML, CSS)</b>
   - [Enlightened Picks](https://enlightenedpicks.netlify.app/)
 
  
-<h2>Prior Emplpoyment</h2>
+<h2>Prior Employment</h2>
 
 - [Universal Group](July-2022-Current)
 - [U.S. Navy - Healthcare Manager](Jun-2000 - June-2022)

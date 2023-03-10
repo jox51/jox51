@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
 <h3 align="center">A passionate frontend developer from Miami,FL</h3>
 
-- 🔭 I’m currently working on [Enlightened Picks](https://enlightenedpicks.netlify.app/)
+- 🔭 Here is my project: [Enlightened Picks](https://enlightenedpicks.netlify.app/)
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB**
+- 🌱 I’m currently building a fullstack MERN app and also working on a collaberative medical appt tracking application
 
 - 👨‍💻 All of my projects are available at [https://github.com/jox51/](https://github.com/jox51/)
 

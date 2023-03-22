@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Orlando</h1>
 <h3 align="center">A passionate frontend developer from Miami,FL</h3>
 
-- 🔭 Here is my project: [Enlightened Picks](https://enlightenedpicks.netlify.app/)
+- 🔭 Here are my projects: 
+    - [Enlightened Picks](https://enlightenedpicks.netlify.app/)
+    - [Smart Goals](https://goal-getter-mern.netlify.app/)
+
 
 - 🌱 I’m currently building a fullstack MERN app and also working on a collaberative medical appt tracking application
 

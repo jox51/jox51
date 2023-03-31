@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Miami,FL</h3>
 
 - 🔭 Here are my projects: 
+    - [Exclusive Picks](https://exclusive-picks-client.onrender.com/)
+    - [Crypto Arb Finder](https://arb-app2-client.onrender.com/)
     - [Enlightened Picks](https://enlightenedpicks.netlify.app/)
     - [Smart Goals](https://goal-getter-mern.netlify.app/)
 
